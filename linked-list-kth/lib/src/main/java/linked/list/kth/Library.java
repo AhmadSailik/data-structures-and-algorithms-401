@@ -15,7 +15,7 @@ public class Library {
         ll.add(8);
         ll.add(2);
 
-        System.out.println(ll.getValue());
+//        System.out.println(ll.getValue());
         System.out.println(ll.getFomEndList(-1));
         System.out.println(ll.getFomEndList(0));
         System.out.println(ll.getFomEndList(9));
