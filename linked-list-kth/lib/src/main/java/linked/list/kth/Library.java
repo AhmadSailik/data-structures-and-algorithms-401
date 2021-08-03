@@ -14,9 +14,11 @@ public class Library {
         ll.add(3);
         ll.add(8);
         ll.add(2);
-        ll.getValue();
-        ll.getFomEndList(2);
+
+        System.out.println(ll.getValue());
         System.out.println(ll.getFomEndList(-1));
+        System.out.println(ll.getFomEndList(0));
+        System.out.println(ll.getFomEndList(9));
 
     }
 }
