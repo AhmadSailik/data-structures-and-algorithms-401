@@ -12,4 +12,5 @@ Table of Contents
 |linked-list-insertions|[cc-06](linked-list-insertions/read06.md)|
 |ll.kthFromEnd(k)|[cc-07](linked-list-kth/read07.md)|
 |linked-list-zip|[cc-08](linked-list-zip/read08.md)|
+|stack-and-queue|[cc-10](stack-and-queue/read10.md)|
 |stack-queue-pseudo|[cc-11](stack-queue-pseudo/read11.md)|
