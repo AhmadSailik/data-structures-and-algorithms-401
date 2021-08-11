@@ -14,3 +14,5 @@ Table of Contents
 |linked-list-zip|[cc-08](linked-list-zip/read08.md)|
 |stack-and-queue|[cc-10](stack-and-queue/read10.md)|
 |stack-queue-pseudo|[cc-11](stack-queue-pseudo/read11.md)|
+|stack-queue-animal-shelter|[cc-12](stack-queue-animal-shelter/read12.md)|
+|stack-queue-brackets|[cc-13](stack-queue-brackets/read13.md)|

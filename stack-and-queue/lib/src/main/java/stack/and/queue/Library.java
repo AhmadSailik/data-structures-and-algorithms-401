@@ -10,18 +10,18 @@ public class Library {
     }
 
     public static void main(String[] args) {
-        Stack<Integer>stack=new Stack<>();
-        stack.pop();
-        stack.peek();
-        System.out.println(stack.getValue());
-        stack.push(1);
-        stack.push(2);
-        stack.push(3);
-        stack.push(4);
-        System.out.println(stack.getValue());
-        System.out.println(stack.peek());
-        System.out.println(stack.pop());
-        System.out.println(stack.getValue());
+//        Stack<Integer>stack=new Stack<>();
+//        stack.pop();
+//        stack.peek();
+//        System.out.println(stack.getValue());
+//        stack.push(1);
+//        stack.push(2);
+//        stack.push(3);
+//        stack.push(4);
+//        System.out.println(stack.getValue());
+//        System.out.println(stack.peek());
+//        System.out.println(stack.pop());
+//        System.out.println(stack.getValue());
 
         Queue<Integer>queue=new Queue<>();
         System.out.println(queue.dequeue());

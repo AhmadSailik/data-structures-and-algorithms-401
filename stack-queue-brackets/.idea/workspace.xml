@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1027cfdc-beb9-4dd2-a39e-24245c204947" name="Default Changelist" comment="" />
+    <list default="true" id="cb52a7fd-5913-4577-9921-7a322a954119" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1wXLXUj4y2llecbrWjd2qZMR0jm" />
+  <component name="ProjectId" id="1wXvJvQ1L81xSw4EWbt7GNthMX3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,19 +46,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stack-queue-animal-shelter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Application.Library">
+  <component name="RunManager" selected="Gradle.LibraryTest.bracket">
     <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.and.queue.Library" />
-      <module name="stack-and-queue.lib.main" />
+      <option name="MAIN_CLASS_NAME" value="stack.queue.brackets.Library" />
+      <module name="stack-queue-brackets.lib.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.and.queue.*" />
+          <option name="PATTERN" value="stack.queue.brackets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,33 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.queue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LibraryTest.bracket" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;stack.and.queue.LibraryTest.queue&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":lib:test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LibraryTest.stack" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;stack.and.queue.LibraryTest.stack&quot;" />
+        <option name="scriptParameters" value="--tests &quot;stack.queue.brackets.LibraryTest.bracket&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -110,8 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.LibraryTest.queue" />
-        <item itemvalue="Gradle.LibraryTest.stack" />
+        <item itemvalue="Gradle.LibraryTest.bracket" />
         <item itemvalue="Application.Library" />
       </list>
     </recent_temporary>
@@ -119,11 +97,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1027cfdc-beb9-4dd2-a39e-24245c204947" name="Default Changelist" comment="" />
-      <created>1628600028050</created>
+      <changelist id="cb52a7fd-5913-4577-9921-7a322a954119" name="Default Changelist" comment="" />
+      <created>1628617680442</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628600028050</updated>
+      <updated>1628617680442</updated>
     </task>
     <servers />
   </component>
