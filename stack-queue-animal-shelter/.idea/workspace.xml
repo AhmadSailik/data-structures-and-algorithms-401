@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ba5ef2-4b63-4f9c-80b7-f0f199dce171" name="Default Changelist" comment="" />
+    <list default="true" id="62ba5ef2-4b63-4f9c-80b7-f0f199dce171" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/java/stack/queue/animal/shelter/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/stack/queue/animal/shelter/Dog.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
