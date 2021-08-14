@@ -1,4 +1,4 @@
-# tree
+# trees
 Define a method for each of the depth first traversals:
 - pre order
 - in order
