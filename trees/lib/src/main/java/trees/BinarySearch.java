@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class BinarySearch extends BinaryTree {
 Node root;
+public boolean isContain=false;
     ArrayList<Integer>arrayList=new ArrayList<>();
     public ArrayList<Integer> add(int value){
         arrayList.add(value);
@@ -32,9 +33,26 @@ Node root;
         }
         return arrayList;
     }
-    public boolean contains(int value){
-
-        return arrayList.contains(value);
+//    public boolean contains(int value){
+//
+//        return arrayList.contains(value);
+//    }
+public boolean nodeContain(Node root,int value){
+    if(root!=null){
+        if(value== root.value){
+            isContain=true;
+        }
+        if(root.left!=null){
+            nodeContain(root.left,value);
+        }if (root.right!=null){
+            nodeContain(root.right,value);
+        }
+    }
+    return isContain;
+    }
+public boolean contains(int value){
+        isContain=false;
+        return nodeContain(root,value);
     }
 
 
