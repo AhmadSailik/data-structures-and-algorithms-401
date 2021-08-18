@@ -13,6 +13,7 @@ public class BinaryTree {
             if (front.left!=null){
                 queue.enqueue(front.left);
             }
+
             if (front.right!=null){
                 queue.enqueue(front.right);
             }

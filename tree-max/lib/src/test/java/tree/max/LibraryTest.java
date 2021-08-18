@@ -12,11 +12,16 @@ public class LibraryTest {
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
     @Test public void maximum(){
-        BinarySearch binarySearch=new BinarySearch();
-        binarySearch.add(40);
-        binarySearch.add(20);
-        binarySearch.add(50);
+
+        BinaryTree binaryTree=new BinaryTree();
+        Node root=new Node(2);
+        root.left=new Node(7);
+        root.right=new Node(5);
+        root.left.left=new Node(2);
+        root.left.right=new Node(6);
+        root.right.left=new Node(50);
+        root.right.right=new Node(8);
         String result="maximum value is: 50";
-        assertEquals("test for max function ",result,String.valueOf(binarySearch.maximam()));
+        assertEquals("test for max function ",result,String.valueOf(binaryTree.maximam(root)));
     }
 }

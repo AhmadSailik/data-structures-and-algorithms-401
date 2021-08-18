@@ -13,21 +13,18 @@ public class LibraryTest {
     }
     @Test public void pseudoQueue(){
         Queue<Integer>queue=new Queue<>();
+
         queue.pesudoDequeue();
         String result0="null";
         assertEquals("this for pseudo dequeue with empty queue",result0,String.valueOf(queue.pesudoDequeue()));
+        queue.pseudoEnqueue(1);
+        queue.pseudoEnqueue(2);
+        queue.pseudoEnqueue(3);
+        queue.pseudoEnqueue(4);
         queue.pseudoEnqueue(5);
-        Integer result1=5;
-        assertEquals("this for pseudo enqueue with empty queue",result1,queue.front.value);
-        queue.enqueue(1);
-        queue.enqueue(2);
-        queue.enqueue(3);
-        queue.enqueue(4);
-        queue.pseudoEnqueue(10);
-        Integer result2=10;
-        assertEquals("this for pseudo enqueue with queue",result2,queue.front.value);
-        queue.pesudoDequeue();
-        Integer result3=3;
-        assertEquals("this for pseudo dequeue with queue",result3,queue.rear.value);
+        String result2="5-> 4-> 3-> 2-> 1-> null";
+        assertEquals("this for pseudo enqueue with queue",result2,queue.getValue());
+        Integer result3=1;
+        assertEquals("this for pseudo dequeue with queue",result3,queue.pesudoDequeue());
     }
 }

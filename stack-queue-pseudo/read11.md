@@ -3,7 +3,7 @@ create pseudo queue have 2 method first method enqueue that is add to  first que
 
 ## Whiteboard Process
 
-![stack-queue-pseudo](2021-08-09.png)
+![stack-queue-pseudo](2021-08-18)
 ## Approach & Efficiency
 
 Big 0

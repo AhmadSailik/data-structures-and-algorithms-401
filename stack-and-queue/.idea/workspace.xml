@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1027cfdc-beb9-4dd2-a39e-24245c204947" name="Default Changelist" comment="" />
+    <list default="true" id="1027cfdc-beb9-4dd2-a39e-24245c204947" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../stack-queue-pseudo/lib/src/main/java/stack/queue/pseudo/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack-queue-brackets/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack-queue-brackets/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack-queue-brackets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack-queue-brackets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack-queue-pseudo/lib/src/main/java/stack/queue/pseudo/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stack-queue-pseudo/lib/src/main/java/stack/queue/pseudo/Queue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

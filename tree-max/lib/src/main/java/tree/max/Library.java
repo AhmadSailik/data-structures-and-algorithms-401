@@ -11,20 +11,14 @@ public class Library {
 
     public static void main(String[] args) {
 
-        BinarySearch binarySearch=new BinarySearch();
-        binarySearch.add(40);
-        binarySearch.add(20);
-        binarySearch.add(50);
-        binarySearch.add(100);
-        binarySearch.add(10);
-        binarySearch.add(25);
-        binarySearch.add(120);
-        binarySearch.add(45);
-        binarySearch.add(130);
-        binarySearch.add(110);
-        binarySearch.add(90);
-        binarySearch.add(180);
-        binarySearch.add(42);
-        System.out.println(binarySearch.maximam());
+        BinaryTree binaryTree=new BinaryTree();
+        Node root=new Node(2);
+        root.left=new Node(7);
+        root.right=new Node(5);
+        root.left.left=new Node(2);
+        root.left.right=new Node(6);
+        root.right.left=new Node(9);
+        root.right.right=new Node(8);
+        System.out.println(binaryTree.maximam(root));
     }
 }
