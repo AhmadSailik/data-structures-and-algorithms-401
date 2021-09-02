@@ -21,3 +21,4 @@ Table of Contents
 |tree-fizz-buzz|[cc-18](tree-fizz-buzz/read18.md)|
 |sort-array|[cc-26](sort-array/read26.md)|
 |merge-sort|[cc-27](merge-sort/read27.md)|
+|quick-sort|[cc-28](quick-sort/read28.md)|
