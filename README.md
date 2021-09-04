@@ -22,3 +22,4 @@ Table of Contents
 |sort-array|[cc-26](sort-array/read26.md)|
 |merge-sort|[cc-27](merge-sort/read27.md)|
 |quick-sort|[cc-28](quick-sort/read28.md)|
+|hashtable|[cc-30](hashtable/read30.md)|
