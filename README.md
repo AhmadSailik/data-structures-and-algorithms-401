@@ -23,3 +23,4 @@ Table of Contents
 |merge-sort|[cc-27](merge-sort/read27.md)|
 |quick-sort|[cc-28](quick-sort/read28.md)|
 |hashtable|[cc-30](hashtable/read30.md)|
+|hashmap-repeated-word|[cc-31](hashmap-repeated-word/read31.md)|
