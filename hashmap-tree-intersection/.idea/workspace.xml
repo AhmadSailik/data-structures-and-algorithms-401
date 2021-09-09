@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LinkedList-total/lib/src/main/java/LinkedList/total/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../allLinkedList/allLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/Nodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree-fizz-buzz/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tree-fizz-buzz/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xpinSfWiN4dJQc48MMfBJcbLV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Gradle.LibraryTest.duplicatvalue">
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.tree.intersection.Library" />
+      <module name="hashmap-tree-intersection.lib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashmap.tree.intersection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.binaryduplicate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;hashmap.tree.intersection.LibraryTest.binaryduplicate&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LibraryTest.duplicatvalue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;hashmap.tree.intersection.LibraryTest.duplicatvalue&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LibraryTest.duplicatvalue" />
+        <item itemvalue="Gradle.LibraryTest.binaryduplicate" />
+        <item itemvalue="Application.Library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="" />
+      <created>1631058597483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631058597483</updated>
+    </task>
+    <servers />
+  </component>
+</project>

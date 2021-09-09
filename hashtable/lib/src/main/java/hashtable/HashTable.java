@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class HashTable extends LinkedList{
 
     int size=5;
-    LinkedList[]arrs= new LinkedList[5];
+    LinkedList[]arrs= new LinkedList[size];
     public void add(String key,int value){
         if (arrs[getHashCode(key)]==null){
             arrs[getHashCode(key)] = new LinkedList();
@@ -51,6 +51,7 @@ public class HashTable extends LinkedList{
         return "is not exist";
     }
     public String print(){
+
         return Arrays.toString(arrs);
     }
     public void printBucket(){
