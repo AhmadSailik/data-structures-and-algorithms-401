@@ -1,5 +1,7 @@
 package hashtable;
 
+import java.util.ArrayList;
+
 public class LinkedList {
     Node head;
     Node tail;
@@ -29,6 +31,7 @@ public class LinkedList {
         if (head!=null) {
             Node current = head;
             while (current != null) {
+//                System.out.println(current.key);
                 if (current.key == key) {
                     return current.key + ": " + current.value;
                 }
@@ -36,6 +39,17 @@ public class LinkedList {
             }
         }
         return "is not exist";
+    }
+    public void getKeys(ArrayList arrayList){
+
+        if (head!=null) {
+            Node current = head;
+            while (current != null) {
+//                System.out.println(current.key);
+                arrayList.add(current.key);
+                current = current.Next;
+            }
+        }
     }
     public boolean isContains(String key){
         if (head!=null){

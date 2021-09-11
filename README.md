@@ -24,3 +24,5 @@ Table of Contents
 |quick-sort|[cc-28](quick-sort/read28.md)|
 |hashtable|[cc-30](hashtable/read30.md)|
 |hashmap-repeated-word|[cc-31](hashmap-repeated-word/read31.md)|
+|hashmap-tree-intersection|[cc-32](hashmap-tree-intersection/read32.md)|
+|hashmap-left-join|[cc-33](hashmap-left-join/read33.md)|

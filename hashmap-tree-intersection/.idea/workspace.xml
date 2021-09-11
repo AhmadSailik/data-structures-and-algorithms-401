@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LinkedList-total/lib/src/main/java/LinkedList/total/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../allLinkedList/allLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/hashmap/tree/intersection/Nodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/HashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tree-fizz-buzz/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tree-fizz-buzz/.idea/gradle.xml" afterDir="false" />
-    </list>
+    <list default="true" id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

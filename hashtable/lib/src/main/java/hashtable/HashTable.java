@@ -1,5 +1,6 @@
 package hashtable;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class HashTable extends LinkedList{
@@ -38,6 +39,17 @@ public class HashTable extends LinkedList{
             }
         }
         return "is not exist";
+    }
+    public ArrayList<String> getAllKeys(){
+        ArrayList<String> arrayList=new ArrayList<>();
+        for (int i = 0; i < arrs.length; i++) {
+//            if (!arrs[i].get(key).equals("is not exist")){
+//                return arrs[i].get(key);
+//            }
+            arrs[i].getKeys(arrayList);
+        }
+        return arrayList;
+
     }
     public String hash(String key){
         for (int i = 0; i < arrs.length; i++) {
