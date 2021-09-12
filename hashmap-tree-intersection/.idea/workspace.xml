@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="" />
+    <list default="true" id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hashmap-left-join/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashmap-left-join/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hashmap-repeated-word/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashmap-repeated-word/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Gradle.LibraryTest.duplicatvalue">
+  <component name="RunManager" selected="Gradle.LibraryTest">
     <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashmap.tree.intersection.Library" />
       <module name="hashmap-tree-intersection.lib.main" />
@@ -65,6 +69,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="LibraryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;hashmap.tree.intersection.LibraryTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="LibraryTest.binaryduplicate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -110,6 +135,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LibraryTest" />
         <item itemvalue="Gradle.LibraryTest.duplicatvalue" />
         <item itemvalue="Gradle.LibraryTest.binaryduplicate" />
         <item itemvalue="Application.Library" />
