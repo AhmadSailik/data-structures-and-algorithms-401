@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1027cfdc-beb9-4dd2-a39e-24245c204947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hashtable/lib/src/main/java/hashtable/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quick-sort/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quick-sort/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph-breadth-first/lib/src/main/java/graph/NodeQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph-breadth-first/lib/src/main/java/graph/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
