@@ -6,7 +6,7 @@ public class BinarySearch extends BinaryTree {
 Node root;
 public boolean isContain=false;
     ArrayList<Integer>arrayList=new ArrayList<>();
-    public ArrayList<Integer> add(int value){
+    public void add(int value){
         arrayList.add(value);
         Node newNode=new Node(value);
         if(root==null){
@@ -20,18 +20,18 @@ public boolean isContain=false;
                     current=current.left;
                     if (current==null){
                         parent.left=newNode;
-                        return arrayList;
+//                        return arrayList;
                     }
                 }else {
                     current=current.right;
                     if (current==null){
                         parent.right=newNode;
-                        return arrayList;
+//                        return arrayList;
                     }
                 }
             }
         }
-        return arrayList;
+//        return arrayList;
     }
 //    public boolean contains(int value){
 //

@@ -30,12 +30,12 @@ public class Library {
         binarySearch.add(42);
 
 //        System.out.println(binarySearch.preOrder());
-//        System.out.println(binarySearch.inOrder());
+        System.out.println(binarySearch.inOrder());
 //        System.out.println(binarySearch.postOrder());
 //        System.out.println(binarySearch.arrayList);
-        System.out.println(binarySearch.contains(20));
-        System.out.println(binarySearch.contains(23));
-        System.out.println(binarySearch.contains(42));
+//        System.out.println(binarySearch.contains(20));
+//        System.out.println(binarySearch.contains(23));
+//        System.out.println(binarySearch.contains(42));
 
     }
 }

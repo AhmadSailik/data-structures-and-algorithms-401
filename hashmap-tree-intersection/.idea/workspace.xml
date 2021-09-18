@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="723d99c6-0033-4d70-8acb-cea958997ea2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hashmap-left-join/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashmap-left-join/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hashmap-repeated-word/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashmap-repeated-word/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examTree/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examTree/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examTree/lib/src/main/java/examTree/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examTree/lib/src/main/java/examTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examTree/lib/src/main/java/examTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph-business-trip/.idea/graph-business-trip.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../trees/lib/src/main/java/trees/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
