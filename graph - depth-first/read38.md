@@ -1,11 +1,11 @@
-# graph-breadth-first
-Extending an Implementation breadth first
+# graph - depth-first
+Extending an Implementation depth first
 to travs the graph
 
 
 ## Whiteboard Process
 
-![graph-breadth-first](2021-09-19.png)
+![graph - depth-first](2021-09-13.png)
 
 
 ## Approach & Efficiency
